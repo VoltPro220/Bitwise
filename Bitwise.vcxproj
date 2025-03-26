@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="src\bitwise.c" />
     <ClCompile Include="src\bools.cpp" />
   </ItemGroup>
